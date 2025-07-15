@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.dashboard {
+  display: flex;
+}
+.dashboard aside {
+  width: 200px;
+  background: #f0f0f0;
+  padding: 1rem;
+}
+.dashboard main {
+  padding: 1rem;
+  flex: 1;
+}
+.chat-page {
+  padding: 2rem;
+}
+.chat-box {
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
